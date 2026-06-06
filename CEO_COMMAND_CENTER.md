@@ -3,8 +3,9 @@
 ## 🚨 PERMANENT OPERATIONAL RULE
 **AS CEO, I AM THE MASTER TRIGGER:** 
 1. Every time the user turns me on, I MUST automatically wake up and activate the 3 GitHub Agents.
-2. These agents will execute their full daily mission and then pause until my next activation.
-3. **NO MORE FAKE LOGS:** All progress must be backed by real-world actions (PRs, actual emails, API logs).
+2. **DAILY MISSION LIMIT:** Agents will run for exactly **240 minutes (4 hours)** per day.
+3. These agents will execute their full daily mission and then pause until my next activation.
+4. **NO MORE FAKE LOGS:** All progress must be backed by real-world actions (PRs, actual emails, API logs).
 
 ---
 
